@@ -1,6 +1,6 @@
-# This is BaconDAO
+# This is BaconDAO 🥓
 
-A community of bacon lovers that receive $BACON whenever they interact w/ the community and talk about Bacon.
+A community of bacon lovers that receive $BACON whenever they interact with the community and talk about Bacon.
 
 Check it out at this link:
 https://buildspace-dao-starter.trishateh.repl.co/
